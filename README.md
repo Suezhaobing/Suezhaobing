@@ -1,6 +1,6 @@
-+ I’m @Suezhaobing, a postgraduate from **XDU**.
-+ I’m interested in **Genetic Programming**, **Symbolic Regression** and **Software Engineering**.
-+ I’m currently learning machine learning implemented in Python and **C++ language**.
++ I’m @Suezhaobing. I received the B.E. degree in software engineering from **XDU**, currently pursuing the M.E. degree with **XDU**.
++ I’m interested in **Evolutionary Computation**, **Symbolic Regression** and **Parrallel Computing**.
++ I’m currently learning machine learning implemented in Python and C++.
 + Welcome to discussing with me. zhbsu@stu.xidian.edu.cn
 
 <!---
