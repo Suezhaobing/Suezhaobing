@@ -1,5 +1,5 @@
-+ I’m @Suezhaobing. I received the B.E. degree in software engineering from **XDU**, currently pursuing the M.E. degree with **XDU**.
-+ I’m interested in **Evolutionary Computation**, **Symbolic Regression** and **Parrallel Computing**.
++ I’m @Suezhaobing. I received the B.E. and M.E. degreedegree in software engineering from **XDU**.
++ I was interested in **Evolutionary Computation**, **Symbolic Regression** and **Parrallel Computing**.
 + I’m currently learning machine learning implemented in Python and C++.
 + Welcome to discussing with me. zhbsu@stu.xidian.edu.cn
 
